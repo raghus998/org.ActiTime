@@ -48,7 +48,7 @@ public class InvalidLoginTest  extends BaseTest
 		 Assert.assertEquals(actualErrorMsg, expectedErrorMsg);
 		 Reporter.log("Both error msg are matching.",true);	
 		 Reporter.log("-----------------------------------------------",true);
-		 Thread.sleep(2000);
+		 Thread.sleep(6000);
 		}
 	}
 
